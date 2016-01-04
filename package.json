@@ -1,0 +1,33 @@
+{
+  "name": "webapi",
+  "version": "1.0.0",
+  "description": "first node rest api",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "gulp": "^3.9.0",
+    "gulp-env": "^0.4.0",
+    "gulp-mocha": "^2.2.0",
+    "gulp-nodemon": "^2.0.6",
+    "mongoose": "^4.3.4",
+    "should": "^8.0.2",
+    "sinon": "^1.17.2",
+    "supertest": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PowerITSolutions/WebApi.git"
+  },
+  "keywords": [
+    "rest",
+    "node",
+    "pi"
+  ],
+  "author": "rob tracy",
+  "license": "MIT"
+}
